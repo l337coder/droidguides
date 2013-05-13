@@ -85,7 +85,7 @@ input[type=checkbox]:checked ~ [for="showhide"] span:last-of-type {
     display: none; 
 }
 
-[for="showhide"]:hover {
+/*[for="showhide"]:hover {
     background: rgba(0,0,0,0.5);
     -webkit-transition-duration: 0.5s;
     -moz-transition-duration: 0.5s;
@@ -94,7 +94,7 @@ input[type=checkbox]:checked ~ [for="showhide"] span:last-of-type {
     -webkit-border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
-}
+}*/
 
 span {
     display: table-cell;
