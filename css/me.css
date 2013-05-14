@@ -109,10 +109,13 @@ img {
 }
 
 #imgbox {
-    width: 80px;
-    height: 80px;
+/*    width: 80px;
+    height: 80px;*/
+    width: 333px;
+    height: 333px;
 }
 
+/*
 #imgbox:active {
     width: 333px;
     height: 333px;
@@ -120,8 +123,8 @@ img {
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
     transition-duration: 0.5s;
-
 }
+*/
 
 .textback {
     background:#0e192d;
